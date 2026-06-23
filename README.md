@@ -12,9 +12,9 @@ Currently: Research Intern at the Fatima Fellowship, working on Arabic and Afric
 
 | Area | Highlights |
 |------|------------|
-| **Conferences** | Data Science Africa (DSA) 2026 â€” oral presentation accepted; IEEE IES Generative AI Challenge 2026 â€” selected track participant |
+| **Conferences** | Data Science Africa (DSA) 2026 - oral presentation accepted; IEEE IES Generative AI Challenge 2026 - selected track participant |
 | **Fellowships** | 2026 Fatima Fellowship Fellow (Document Intelligence) |
-| **Internships** | Fatima Fellowship Research Intern (Feb 2026 â€“ Present); Nigeria Military Lead Data Strategist (2024 â€“ Present) |
+| **Internships** | Fatima Fellowship Research Intern (Feb 2026 - Present); Nigeria Military Lead Data Strategist (2024 - Present) |
 | **Research** | Plant disease detection in African agriculture; Graph Spectral Entropy for industrial generative-AI safety verification; Yoruba cultural reasoning benchmarks; LLM calibration disparities on African knowledge |
 
 ---
@@ -50,9 +50,9 @@ Defence operations analytics, agricultural data, public-health surveys, document
 
 ## Publications & selected research
 
-- **Bridging the Domain Gap: Transfer Learning and Aggressive Fine-Tuning for Robust Plant Disease Detection in Low-Resource African Agriculture** â€” *Proceedings of Machine Learning Research 319 (2026)*
-- **Graph Spectral Entropy: A Neuro-Symbolic Quality Control Metric for Industrial Generative AI Safety Instruction Verification** â€” *IEEE IES Generative AI Challenge 2026, selected track*
-- **"When the Lights Go Out" â€” AI-powered security frameworks for IoT in low-resource African contexts** â€” *Data Science Africa (DSA) 2026, oral presentation*
+- **Bridging the Domain Gap: Transfer Learning and Aggressive Fine-Tuning for Robust Plant Disease Detection in Low-Resource African Agriculture** - *Proceedings of Machine Learning Research 319 (2026)*
+- **Graph Spectral Entropy: A Neuro-Symbolic Quality Control Metric for Industrial Generative AI Safety Instruction Verification** - *IEEE IES Generative AI Challenge 2026, selected track*
+- **"When the Lights Go Out" - AI-powered security frameworks for IoT in low-resource African contexts** - *Data Science Africa (DSA) 2026, oral presentation*
 
 **Ongoing work:** ProverbEval-Yoruba cultural reasoning benchmark. Multi-API disagreement for African machine-translation quality estimation. AfriKnow LLM calibration research.
 
@@ -68,10 +68,10 @@ Defence operations analytics, agricultural data, public-health surveys, document
 
 ## Leadership & community
 
-- **Zindi Country Ambassador (Nigeria)** â€” mentored 50+ students in data-science competitions
-- **Technical Reviewer, MENA Machine Learning Winter School 2026 (KAUST)** â€” reviewed 2,400+ applications
-- **Virtual Judge, Deep Learning Indaba 2025 Community Hackathon** â€” evaluated 50+ African AI projects
-- **Mentor, Wale Lab** â€” recognised March 2026 for dedication to student guidance
+- **Zindi Country Ambassador (Nigeria)** - mentored 50+ students in data-science competitions
+- **Technical Reviewer, MENA Machine Learning Winter School 2026 (KAUST)** - reviewed 2,400+ applications
+- **Virtual Judge, Deep Learning Indaba 2025 Community Hackathon** - evaluated 50+ African AI projects
+- **Mentor, Wale Lab** - recognised March 2026 for dedication to student guidance
 
 ---
 
