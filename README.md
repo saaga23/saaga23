@@ -80,8 +80,10 @@ Defence operations analytics, agricultural data, public-health surveys, document
 - Location: Ibadan, Nigeria (UTC+1)
 - Email: godwinsunday11223@gmail.com
 - Phone: +234 813 148 2071
+- Portfolio: [sunday-aspita-portfolio-v2.vercel.app](https://sunday-aspita-portfolio-v2.vercel.app)
 - LinkedIn: [linkedin.com/in/aspita-sunday](https://linkedin.com/in/aspita-sunday)
 - GitHub: [github.com/saaga23](https://github.com/saaga23)
+- Zindi: [zindi.africa/users/aspita](https://zindi.africa/users/aspita)
 - CV: available on request or via LinkedIn
 
 ---
